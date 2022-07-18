@@ -2,7 +2,7 @@
 
 ## Tech used:
 
-Socket io
+Socket io; nodejs; HTML; CSS; JavaScript; Express
 
 ## Description:
 
